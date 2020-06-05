@@ -234,7 +234,7 @@ header #toggle:after
 input:focus 		{ outline:none; }
 
 /* LABEL ======================================= */
-label 				 {
+.group label 				 {
   color:#999; 
   font-size:18px;
   font-weight:normal;
@@ -299,7 +299,7 @@ input:focus ~ .highlight {
 .filldata button{
 	position: relative;
 	display: inline-block;
-	margin-top: 20px;
+	/* margin-top: 20px; */
 	background: #fff;
 	color: #000;
 	padding: 10px 30px;
@@ -427,6 +427,18 @@ input:focus ~ .highlight {
 	.group .bar
 	{
 		width: 100%;
+	}
+	.filldata button
+	{
+		font-size: 0.7em;
+	}
+	.group input
+	{
+		font-size: 0.7em;
+	}
+	.group label
+	{
+		font-size: 14px;
 	}
 
 
