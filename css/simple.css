@@ -93,7 +93,7 @@ header #toggle:after
 	right: -200px;
 	width: 400px;
 	height: 100vh;
-	background: #40c3ff;
+	background: #ffffff;
 	z-index: 1;
 	display: grid;
 	place-items: center;
