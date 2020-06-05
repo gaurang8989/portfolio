@@ -424,5 +424,10 @@ input:focus ~ .highlight {
 		width: 100%;
 	}
 
+	.bar
+	{
+		width: 100%;
+	}
+
 
 }
