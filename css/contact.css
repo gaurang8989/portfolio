@@ -424,7 +424,7 @@ input:focus ~ .highlight {
 		width: 100%;
 	}
 
-	.bar
+	.group .bar
 	{
 		width: 100%;
 	}
