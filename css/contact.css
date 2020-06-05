@@ -220,7 +220,7 @@ header #toggle:after
 /* form starting stylings ------------------------------- */
 .filldata .group 			  { 
   position:relative; 
-  margin-bottom:45px; 
+  margin-bottom:30px; 
 }
 .filldata input 				{
   font-size:18px;
